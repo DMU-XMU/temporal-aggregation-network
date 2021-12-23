@@ -7,24 +7,13 @@
 
 ## Requirements
 
-The code is based on **Python 3**. 
+The code is based on **Python 3**, then run:
+
+	pip install -r requirements.txt
     
 ## How to run
 
+Choose one model, then run:
 
-
-Train original DQN:
-
-	python dqn.py --env env_name
+	python main.py --env-name "KungFuMasterNoFrameskip-v4"
     
-Train soft DARQN:
-
-	python drqn_soft.py --env env_name
-    
-Train global DQN:
-
-	python dqn_global.py --env env_name
-
-Train local DQN:
-
-	python dqn_local.py --env env_name
