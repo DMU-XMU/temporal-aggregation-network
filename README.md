@@ -1,9 +1,11 @@
 # Temporal-feature-aggregation-network
 ## Implementation contains：
-1. a2c with 3D_conv
-2. a2c with GRU
-3. a2c with Transformer
-4. a2c with TAN
+
+1. vanilla a2c
+2. a2c with 3D_conv
+3. a2c with GRU
+4. a2c with Transformer
+5. a2c with TAN
 
 ## Requirements
 
