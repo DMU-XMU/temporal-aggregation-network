@@ -7,13 +7,13 @@
 4. a2c with Transformer
 5. a2c with TAN
 
-## Requirements
+## Requirements:
 
 The code is based on **Python 3**, and run:
 
 	pip install -r requirements.txt
     
-## How to run
+## How to run:
 
 Choose one model, then run:
 
