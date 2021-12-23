@@ -1,16 +1,17 @@
 # Temporal-feature-aggregation-network
-## 
-## step1:
-
-## step2:
-
-## step3:
+## Implementation contains：
+**model_3d**
+**model_gru**
+**model_transformer**
+**model_tan**
 
 ## Requirements
 
 The code is based on **Python 3**. 
     
 ## How to run
+
+
 
 Train original DQN:
 
