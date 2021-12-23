@@ -9,7 +9,7 @@
 
 ## Requirements
 
-The code is based on **Python 3**, then run:
+The code is based on **Python 3**, and run:
 
 	pip install -r requirements.txt
     
